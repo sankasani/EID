@@ -1,0 +1,5 @@
+2020-03-05 11:07:19,529 WARN  [SoapUI] Missing folder [\\OPSCIFS1\group\$ Enterprise Initiative Delivery\Private\QA\EnterpriseInitiativeAutomation\TCB.EID.Automation\EnterpriseInitiativeDelivery.Automation\ext] for external libraries
+2020-03-05 11:07:20,231 INFO  [DefaultSoapUICore] initialized soapui-settings from [C:\Users\rasapp\soapui-settings.xml]
+2020-03-05 11:07:22,065 INFO  [PluginManager] 0 plugins loaded in 1 ms
+2020-03-05 11:07:22,066 INFO  [DefaultSoapUICore] All plugins loaded
+2020-03-05 11:07:24,847 INFO  [WsdlProject] Loaded project from [file:/C:/Project-Test/TcbApiStrategyAutomation/SoapProject/TCB-ApiStrategy.xml]
